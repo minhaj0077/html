@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+    <table border="2">
+    <th colspan="10" bgcolor="red"><center> Study Time Table</center></th>
+    
+        <tr bgcolor="yellow" align="center"> 
+            <td> Day/Time</td>
+            <td>09:00-10:30</td>
+            <td>10:30-12:00</td>
+            <td>12:00-01:30</td>
+            <td>01:30-02:30</td>
+            <td>02:30-04:00</td>
+            <td>04:00-05:30</td>
+            <td>05:30-06:00</td>
+            <td>06:00-07:30</td>
+            <td>07:30-09:00</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Monday</td>
+            <td>G.k</td>
+            <td>maths</td>
+            <td>English</td>
+            <td rowspan="7" bgcolor="gree">BREAK</td>
+            <td>Science</td>
+            <td>Computers</td>
+            <td rowspan="7" bgcolor="gree">BREAK</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Tuesday</td>
+            <td>G.k</td>
+            <td>maths</td>
+            <td>English</td>
+            <td>Science</td>
+            <td>Computers</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Wednesday</td>
+            <td>G.k</td>
+            <td>maths</td>
+            <td>English</td>
+            <td>Science</td>
+            <td>Computers</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Thursday</td>
+            <td>G.k</td>
+            <td>maths</td>
+            <td>English</td>
+            <td>Science</td>
+            <td>Computers</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Friday</td>
+            <td>G.k</td>
+            <td>maths</td>
+            <td>English</td>
+            <td>Science</td>
+            <td>Computers</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Saturday</td>
+            <td rowspan="2" colspan="2">--</td>
+            <td>English</td>
+            <td rowspan="2" colspan="2">--</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+        <tr align="center">
+            <td bgcolor="yellow">Sunday</td>
+            <td>English</td>
+            <td>History</td>
+            <td>Psychology</td>
+        </tr>
+    </table>
+    
+</html>

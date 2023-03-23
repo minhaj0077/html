@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <body bgcolor="purple">
+        <center> LLISTS</center><hr><hr>
+        <font color="white">
+        <center> DTP</center>
+        <ol type="a">
+        <li>photo</li>
+        <li>photo</li>
+        <li>photo</li>
+        <li>photo</li></ol></font>
+         
+        <ol type="I">
+            <b><font face="mistral" color="yellow"><center>MS.OFFICE</center></font></b>
+            <b><li>kdghdhadf</li></b>
+            <i><li>kdghdhadf</li></i>
+            <li>kdghdhadf</li>
+            <li>kdghdhadf</li>
+            <li>kdghdhadf</li>
+    <hr><hr>
+<i><marquee bgcolor="red"><font size="10" color="gree">jjhhrgf hfhgrhrf fhuhsfh huhghfhfugh </font>  </marquee><i></I><hr><hr>
+        </ol>
+
+    </body>
+</html>

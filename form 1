@@ -1,0 +1,83 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>a3</title>
+</head>
+
+<body>
+<div style="background-color:#F60; border:solid; border-color:#F60; width:1350px; height:70px;">
+<h3 style="color:#FC0; margin-left:20px; margin-top:20px;">Sign Up</h3>
+</div>
+<div style="background-color:rgb(135, 173, 227); border:solid; border-color:rgb(152, 201, 223); width:1350px; height:500px;">
+<form>
+<div style="color:yellow; margin-left:700px; margin-top:10px;"><h3>First Name:</h3> 
+<input type="text" placeholder=" Enter First Name" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="color:yellow; margin-left:700px;margin-top:-15px;"><h3>Last Name:</h3> 
+<input type="text" placeholder=" Enter Last Name" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="color:yellow; margin-left:700px;margin-top:-15px;"><h3>Screen name:</h3> 
+<input type="text" placeholder=" Enter Screen Name" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="color:yellow; margin-left:700px;margin-top:-15px;"><h3>Date of Birth:</h3> 
+<select style="margin-left:130px;margin-top:-40px; width:80px; border-radius:5px; "><option>1</option>
+<option>2</option>
+<option>3</option>
+<option>4</option>
+<option>5</option>
+<option>6</option>
+<option>7</option>
+<option>8</option>
+<option>9</option>
+<option>10</option>
+</select></div>
+<div style="margin-left:700px;">
+<select style="margin-left:250px; width:80px; margin-top:-40px; border-radius:5px; "><option>jan</option>
+<option>feb</option>
+<option>mar</option>
+<option>apr</option>
+<option>may</option>
+<option>june</option>
+<option>july</option>
+<option>aug</option>
+<option>sep</option>
+<option>oct</option>
+</select></div>
+<div style="margin-left:700px;">
+<select style="margin-left:370px; width:80px; margin-top:-40px; border-radius:5px; "><option>1990</option>
+<option>1991</option>
+<option>1992</option>
+<option>1993</option>
+<option>1994</option>
+<option>1995</option>
+<option>1996</option>
+<option>1997</option>
+<option>1998</option>
+<option>1999</option>
+</select></div>
+<div style="color:yellow; margin-left:700px;margin-top:-15px;"><h3>Gender:</h3> 
+ <center> <input type="radio"  name="Gender" > male 
+<input  type="radio"  name="Gender"> Female  </div><br>
+<div style="color:yellow; margin-left:700px;margin-top:-15px;"><h3>country:</h3> 
+<select style="margin-left:130px;margin-top:-40px; width:300px; border-radius:5px; "><option>india</option>
+<option>usa</option>
+<option>england</option>
+<option>china</option>
+<option>pak</option></select>
+</div>
+<div style="color:yellow; margin-left:700px; margin-top:-10px;"><h3>E-mail:</h3> 
+<input type="email" placeholder=" Enter email" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="color:yellow; margin-left:700px; margin-top:-10px;"><h3>Phone:</h3> 
+<input type="email" placeholder=" Enter phone number" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="color:yellow; margin-left:700px; margin-top:-10px;"><h3>Password:</h3> 
+<input type="password" placeholder=" Enter password" style="margin-left:130px; margin-top:-44px; width:300px; height:20px; border-radius:5px;" /></div>
+<div style="margin-left:700px;">
+<input type="checkbox" style="margin-left:130px;" /></div>
+<div style="margin-left:700px;">
+<p style="margin-left:160px; margin-top:-18px;color:yellow;">I agree to the terms of use</p></div>
+</div>
+<div style="background-color:#F60; border:solid; border-color:#F60; width:1350px; height:60px;">
+<div><input type="submit" value="submit" style="background-color:yellow; margin-left:900px; margin-top:10px; width:60px; height:30px;border-radius:5px;" /></div>
+<div><input type="reset" value="cancel" style="background-color:red; margin-left:970px; margin-top:-30px; width:60px; height:30px;border-radius:5px;" /></div>
+</div>
+</div>
+</form>
+</body>
+</html>
